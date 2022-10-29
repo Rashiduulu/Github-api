@@ -1,0 +1,3 @@
+interface GithubState {
+    favorites: string[]
+}
